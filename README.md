@@ -53,31 +53,9 @@ The project is designed to strengthen practical skills required for:
 
 # 🏗️ Lab Architecture
 
-```
-                    Enterprise Security Monitoring
-                     & Incident Response Lab
 
-                      MacBook Air M3
-                             │
-          ┌──────────────────┴──────────────────┐
-          │                                     │
-          │                                     │
-   Ubuntu Server ARM64                  Windows 11 Pro ARM
-          │                                     │
-          │                                     │
- SSH Hardening                         Windows Security Logs
- UFW Firewall                          Event Viewer
- auditd                               Account Monitoring
- fail2ban                             Event Investigation
-          │                                     │
-          └───────────────┬─────────────────────┘
-                          │
-                 Python Security Analyzer
-                          │
-        Incident Reports • MITRE ATT&CK Mapping
-                          │
-                    GitHub Documentation
-```
+<img width="431" height="411" alt="ArchDig drawio" src="https://github.com/user-attachments/assets/572bb6cb-17ed-4cd8-bcd4-ef6ccc366971" />
+
 
 ---
 
